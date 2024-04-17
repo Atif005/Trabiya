@@ -1,0 +1,21 @@
+body {
+  font-size: 15pt;
+}
+
+h1 {
+  font-size: 60px;
+  color: limegreen
+}
+
+button {
+  color: green;
+  background: lawngreen
+}
+
+p1 {
+  color: red
+}
+
+p {
+  font-size: 30px
+}
